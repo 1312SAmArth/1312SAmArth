@@ -73,7 +73,6 @@ I build ML systems that run in production, not just in notebooks. My work covers
 | **[Atlas: End-to-End MLOps Pipeline](https://github.com/1312SAmArth/End-to-End-YouTube-Sentiment-Analysis-Platform)** | Deploys a Flask model service with a GitHub Actions → ECR → **EKS** pipeline (3 replicas). Load-tested at **10,000 concurrent requests** with JMeter. Includes a 4-stage DVC pipeline, **50+ MLflow experiments**, and Prometheus/Grafana monitoring. | Docker · Kubernetes · AWS EKS/ECR/S3 · DVC · MLflow |
 | **[Vision AI Analyzer](https://github.com/1312SAmArth/AI-Powered-Image-Analyzer)** | Serverless image analysis that writes natural-language descriptions with **Rekognition + Bedrock**. Presigned S3 uploads cut upload latency by **25%**. All 10 AWS resources are defined in **Terraform**. | Lambda · API Gateway · Bedrock · Terraform |
 | **[Krishi-Market Anomaly Command Center](https://github.com/1312SAmArth/Krishi-Market-Anomaly-Command-Center-Pipeline)** | Bronze → Silver → Gold pipeline that ingests **10,000+ daily** crop-price records from data.gov.in. Runs rolling, seasonality-adjusted anomaly detection across **1,000+ mandis**, with a Plotly Dash dashboard and geospatial maps. | Pandas · PyArrow · Parquet · Plotly Dash |
-| **[Enterprise RAG](https://github.com/1312SAmArth/Enterprise-Rag)** | Retrieval-augmented generation system for enterprise documents. | LangChain · LLMs · Vector Search |
 
 ➡️ More on my [repositories page](https://github.com/1312SAmArth?tab=repositories).
 
