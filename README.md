@@ -16,7 +16,7 @@ I build ML systems that run in production, not just in notebooks. My work covers
 
 - 🎓 Final-year **B.Tech in Information Technology** at **Delhi Technological University** (2023 – 2027) · CGPA 8.23
 - 💼 Former **Software Intern at Eduminds Learning**, where I worked on a hybrid recommendation engine (SVD + TF-IDF + ANN retrieval). It cut average recommendation latency by **35%**.
-- ☁️ **AWS Certified Cloud Practitioner** · Led a team at **Smart India Hackathon** (cleared the institute round) · **300+** DSA problems solved
+-  · **300+** DSA problems solved
 - 🔭 Currently working on **MLOps, cloud-native AI (Amazon Bedrock, RAG, LLM agents)** and open-source contributions
 - 🎯 Open to **AI/ML Engineering, MLOps and Cloud** internship and full-time roles
 
